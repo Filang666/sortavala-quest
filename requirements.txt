@@ -1,0 +1,4 @@
+aiogramm
+imageio
+imageio[ffmpeg]
+pillow
